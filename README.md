@@ -30,13 +30,5 @@
     # 7  7    Simon  632.8  7/30/2013 Operations
     # 8  8     Guru  722.5  6/17/2014    Finance
 
-    x <- c(2,3,4)
-    storage1 <-  numeric(5)   # bidet 5 nomerov, poka oni nol
-    storage1
-    st2 <-
 
-      for (i in x) {
-        storage1[i ]  <- i^2
-      }
-    storage1
 Simple like that :)
